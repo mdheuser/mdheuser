@@ -1,7 +1,6 @@
 # Martin Dahlström-Heuser
 
-Visual artist → software developer. Hive Helsinki (42) alumnus based in Helsinki.
-I like shipping practical web apps and weird, research-driven tools.
+Visual artist turned software developer. Hive Helsinki (42) alumnus based in Helsinki.
 
 ## Featured work
 - **ft_transcendence** — full-stack Pong platform (TypeScript backend, REST APIs, persistence, Docker). *(Team capstone)*
@@ -12,6 +11,5 @@ I like shipping practical web apps and weird, research-driven tools.
 ## What I’m comfortable with
 C, Unix, Git, debugging, Docker fundamentals, REST API design, SQL basics, TypeScript/Node fundamentals.
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/martin-dh/
-- Portfolio / site: TO DO
+## LinkedIn
+- https://www.linkedin.com/in/martin-dh/
