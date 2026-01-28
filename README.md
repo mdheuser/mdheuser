@@ -1,4 +1,4 @@
-# Martin Dahlström-Heuser (mdheuser)
+# Martin Dahlström-Heuser
 
 Visual artist → software developer. Hive Helsinki (42) alumnus based in Helsinki.
 I like shipping practical web apps and weird, research-driven tools.
