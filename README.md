@@ -14,7 +14,7 @@ A simple UNIX shell implementation that replicates core shell functionalities in
 - Adheres to POSIX standards
 
 ### 🎮 [wally](https://github.com/mdheuser/wally)
-A game of life and death - an interactive C-based game showcasing graphics programming and game logic.
+An interactive C-based game featuring life and death mechanics. Showcases graphics programming, game logic implementation, and real-time user interaction.
 
 ### 🗺️ [42_so_long](https://github.com/mdheuser/42_so_long)
 A simple 2D game constructed in C based on maps (2D arrays of characters). Demonstrates graphics rendering and game state management.
