@@ -3,7 +3,7 @@
 Visual artist turned software developer. Hive Helsinki (42) alumnus based in Helsinki.
 
 ## Featured work
-- **video pipeline tool** – a tool (Bash/Python, ffmpeg, Tesseract) that turns random still frames into video.
+-[**video pipeline tool**](https://github.com/mdheuser/video_pipeline) – a tool (Bash/Python, ffmpeg, Tesseract) that turns random still frames into video.
 - **ft_transcendence** — full-stack Pong platform (TypeScript backend, REST APIs, persistence, Docker).
   *End-of-curriculum team project (Hive Helsinki).*
 - **42minishell** — UNIX shell clone in C (pipes, redirections, env, builtins).
